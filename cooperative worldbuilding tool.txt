@@ -1,0 +1,95 @@
+Cooperative Worldbuilding Tool
+------------------------------
+
+This is a minimalistic hack of Burning Wheel‘s concept, Microscope and Fiasco. You better go get these games, they are incredibly inspirational and fun!
+[Burning Wheel Store](https://www.burningwheel.com/store/ "Burning Wheel Store") – [Microscope website](http://www.lamemage.com/microscope/ "Microscope website") – [Bully Pulpit Games](http://bullypulpitgames.com/games/fiasco/ "Bully Pulpit Games")
+
+I may have used stuff from somewhere else but can’t remember from where. I hope you find this hack being distinct enough from it’s sources to justify it’s existence, otherwise please let me know by writing me at paulorivas100@hotmail.com to change it, take it away or give proper credit and post links as above . For all the rest here's the license:
+
+License
+-------
+
+Cooperative Worldbuilding Tool © Paulo Rivas 2016-17, in part derived from Burning Wheel © Luke Crane 2002, Microscope © Ben Robbins 2011, Fiasco © Jason Morningstar 2009
+
+This work is licensed under the Creative Commons Attribution 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+
+
+**I believe you’re the GM usually, so consider this first:**
+
+- If you want/like to keep the common knowledge of the setting secret from the players, or if they don’t like to know any stuff in advance, *don’t use this tool.*
+
+- If you like to have full creative control on your prepared material / dislike what your players usually come up with for stories / can’t take the challenge of building over their ideas, *don’t use this tool.*
+
+- If your players are uncomfortable creating things, *use this tool with caution*; help them relax and tell them that you will only use the result if everyone thinks it’s good. Nothing has to be set in stone.
+
+**Then why would you use it?**
+
+ - This tool generates the world known by the PCs and the history they have heard of. You can always introduce small bits of information that may make the players see things under a different light or even reveal a shocking hidden truth about it all.
+
+ - The content it generates isn’t too detailed, you can take the final form and tweak it, fill the gaps, etc. As long as players recognize their work, it should be okay.
+   
+ - Creators invest emotionally in their creations. Once you’re done with this tool you will find that everyone on the table will be actually concerned about the world, an effect you only can get with your own material if you have managed to introduce NPCs and the world in a way that makes them matter for the players. That’s something hard to achieve for most GMs. When players do care about the world there’s a higher probability they won’t go murderhobo and kill    everything on sight for loot and XP.
+   
+ - Even if you don’t believe me on that, you’d have to admit that having everyone help to create the world beats explaining them over  and over all about it, something that players usually don’t care   about and forget the next session.
+   
+ - Let’s say your players have a better memory than mine, or even than you; well, then at least you will have to admit that this is a fun way to make a good part of the prep. This gets you playing from the start of the session and you can also use it to explain the game basics before assembling characters. It could also help players choose what to play.
+
+
+----------
+
+
+ 
+Okay, then let’s start the procedure. the questions must be answered by everyone, not only the GM but the players too.
+ 
+**1 – Setting’s palette:** this is a list of anything you would like to see on the game. You can also decide here if there are anything you want to veto from the game. Keep this at hand to use it for the next steps, you will know when. Also, always introduce here one or two words to define the mood of the setting: gritty, post-apocaliptic, gonzo, epic, pacific, fairyland, etc.
+
+**2 – Species:** Is everyone human in this world, are there elves, orcs, etc? Every player can name one and even make up their own, as long as the game system supports it. Don’t bother yet to detail where they live or what racial abilities they have, just name them.
+
+**3 – Religion**: Does anyone want to include gods into the game? If you don’t, go straight to 3. If someone does and you all agree, each player who wants to, can create a single god by assigning it a Domain, a concept this god incarnates (life, death, justice, chaos, order, etc). If anyone has an idea about how people worships the god and where, write it down too. What about the way the god rewards its followers or punishes their enemies? write that down too. Finally, each player rolls a dice to see which god has more followers, thus defining the power and importance of the god. A low roll means it’s a minor cult, perhaps starting or fading, or even a secret one. A high roll means it’s an established religion approved and supported by rulers, with important resources. Discuss the interpretation of the roll with the GM until you all reach an agreement.
+
+**4 – Draw the kingdom’s map.** No, don’t map the world, just the kingdom or area the PCs are right now. If they want to travel, you can use this step and the next ones again as many times as you want to create the world, but do it as you explore it and not in advance. It’s just too much info that the player’s won’t be needing right now. You can designate any player to draw the map, that player only needs to draw the frontiers of the kingdom and determine if it’s an island, a continent or part of one, if it has shores or not, etc. Then the player to the right will add one place of importance. It can be a city, town, mountain, forest, lake, cave, volcano, etc, etc.
+
+**5 – Technology:** Decide the max level of technology in the kingdom, and if it’s either magical or scientific or whatever. You can refer to historical periods to help you, like the bronze age, medieval, renaissance, etc. Roll a die to determine in which state it is right now. 1 means it’s lost, almost mythical and long forgotten, though you can still find functional devices here and there. The highest number will mean that new technology is developed all the time here and it’s widely distributed.
+
+**6 – Economics and Population:** choose the main economic activity in the kingdom and roll 1d6 to find out how good is the kingdom faring. Take note of that roll and roll another d6. This time write that many amount of zeros to the right of the number you wrote: that’s the current population of the kingdom. Are you having 10 people in the kingdom now? It’s okay, that means a recent disaster has decimated the kingdom and you mission will probably be about finding survivors/getting out of there/found out what happened
+
+**7 – Dangers and hopes:** try to think now as if you were inhabitants of this kingdom. What or who do you fear the most? Is it a monster, a big bad evil guy, an invasion, a catastrophe? What’s your best hope against it? Here you can create any sort of NPCs, items, creatures and more that you want to see in this kingdom.
+
+**8 – The mystery:** this one is totally optional, if your kingdom still sounds like a boring place up to this point, adding one mystery should do the trick. All you need here is a question that you will left open for the players to find out during the game. Like, what are the strange noises we keep hearing on the other side of the mountain each thursday night?
+
+**9 – Group's Goal:** What do the adventurers do as a group? Are they explorers, bounty hunters, mercs? do they belong to an institution or group? A common group objective helps a lot to put a clear goal in front of the players and give the GM a great starting point. Players can still pursue the personal agenda of their PCs as long as they remember why are their characters in the group.
+
+**10 – The adventure:** Up to this point you may have plenty of adventure ideas, places to go, things to do, a situation to face, etc. Sometimes however you might still be unsure which way to go. I have a couple of tricks more for this particular part:
+
+ 1. Roll 2d6 over the map. One die will mark the start of the adventure, the other will mark the final destination. You can either choose the nearest points of interest marked by the players or make up a new “less interesting” place to frame the starting or ending point of the adventure. The number on each dice will indicate how dangerous is that place, so the adventure can be about going from a dangerous place to a somewhat safe one or vice versa. Throw in whatever you have determined about the setting and voilá! there’s your adventure.
+    
+    What if both numbers are high? Then the adventurers might be escaping from something and then taking the fight into the villain’s den. If both numbers are low then it’s most probably an escort mission, and they will find the biggest danger on the route.
+
+ 2. Place the PCs on a tavern, inn or any public place you can think of and let them come up with the rumours they hear on the place. I usually ask the group what do their PCs hear that calls their attention. I usually present them with a few resourceFull cards for inspiration so they can choose from a limited amount of words/images and turn it into a rumour. You can then either let players choose the one they find the most interesting or try to connect those and then turn it into a proper plot hook, with the benefit that players would already be interested in following it!
+
+**11 – Past History:** You can stablish the outlines of the kingdom’s history along with the players (at least the one their PCs know) with this trick. Every player will create and briefly incarnate an important NPC in the setting, the leader or prominent member of a faction. They will get 1d6 of one resource suggested by the player or listed on the setting’s palette. You can use the deck again to give the PC an objective or let the player come up with one herself.
+
+Additionally here’s a modum operandi list, geared to make these NPC clash and/or ally, to guarantee things will go badly despite anyone’s best efforts. Distribute randomly among the players, preferably without repeating them:
+
+- I’ll make a truce or treaty no matter the cost.
+- I’m here to help, but my people comes first.
+- We’re all together in this and extremism won’t get us anywhere.
+- Distract and calm them, while I betray them to reap benefits.
+- I’ll support the most powerful as long as I get benefits from it.
+- Knowledge should come first.
+- Someone here must be an spy or plotting against me.
+- Whatever I do I want EVERYONE to know it was me. Except if it goes badly, of course.
+- Things are either black or white.
+- Nothing is truth, everything is permitted.
+- For the Empire! (or replace this with your favourite fanatical line)
+- I’m looking for trustful allies. I’ll reward that trust and destroy those who betray me.
+- I admire and support people with guts… but I’m no idiot.
+
+Next, each player narrates one thing they did to get what they wanted, to shape the kingdom after their ideal or convenience, and roll the die to see how it went. If the action is against another player, that player can state their reaction and make an opposition roll. Or, if it’s a collaboration, she can re-roll the die if she wants. If it isn’t against another player, then 5-6 means it went perfectly without wasting time or resources, maybe even making additional problems for one opponent. 2-4 means it took them more resources than planned (reduce your current resources by one). The first time anyone rolls a one, they have to roll 2d6 on [this wonderful Generic Plot Twists Table by Christopher Allen](http://www.markofdestiny.com/2015/03/generic-plot-twist-tilt-table-for.html "tilt table"), or Fiasco’s Tilt table if you’ve got the book. I’d reccomend you to go around taking turns around the table, maybe once to three times or until you’re satisfied.
+
+**And that’s it!**
+As you can see you can swith any of this with any other thought-provoking, loaded and/or inspiring questions to ignite player's imagination and let then run wild, though never for too long that you lose track of anything they said, nor too far that they come up with everything and leave nothing to explore later.
+
+I’d also recommend you to read [Play Unsafe](http://www.drivethrurpg.com/product/106247/Play-Unsafe?filters=0_44293_0_0_0 "play unsafe at drivethruRPG") by Graham Walmsley, get used to not have control of the game all the time, learn to follow your players wherever they go and listen to their ideas.
+
+> Written with [StackEdit](https://stackedit.io/).
